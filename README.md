@@ -1,9 +1,3 @@
-# cnn_mnist-
-MNIST Digit Classification with Keras CNN
-
-Certainly! Below is a well-structured **README.md** file for your MNIST digit classification project using Keras CNN. You can copy this directly into your repository.
-
-```markdown
 # MNIST Digit Classification with Keras CNN
 
 This project implements a Convolutional Neural Network (CNN) using Keras and TensorFlow to classify handwritten digits from the popular MNIST dataset. The model achieves high accuracy by leveraging convolutional layers for feature extraction and fully connected layers for classification.
